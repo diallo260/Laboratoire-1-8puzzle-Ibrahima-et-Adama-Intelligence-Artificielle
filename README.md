@@ -24,7 +24,7 @@ Les chemins sont écrits à part parce que ceux du dfs dépassent 60 000 actions
 Un seul fichier par algorithme et par entrée.
 Les dix exécutions donnent le même chemin.
 
-## Ce que j'ai compris : 
+## Ce que nous avons compris : 
 
 Dans notre implémentation, nous avons choisi de représenter l’état comme un vecteur de 9 cases et les mouvements comme des matrices de permutation.
 J'ai compris quand j'ai réalisé que déplacer la case vide revenait à échanger deux éléments du vecteur.
